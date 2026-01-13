@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**RanjethaPriya19/RanjethaPriya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ranjetha Priya 👋
 
-Here are some ideas to get you started:
+AI & ML Engineer with 2+ years of experience in Generative AI, Agentic Systems, and RAG pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build:
+• Agentic workflows using LangGraph
+• RAG systems with vector databases
+• LLM-powered automation and AI services
+• Multimodal AI applications
+
+Tech: Python | LangChain | LangGraph | LLMs | RAG | Vector DBs | CI/CD Automation | AWS
+
+Currently open to immediate opportunities.
+
