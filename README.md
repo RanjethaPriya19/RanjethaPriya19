@@ -1,7 +1,7 @@
 
 Hi, I’m Ranjetha Priya 👋
 
-AI & ML Engineer with 2+ years of experience in Generative AI, Agentic Systems, and RAG pipelines.
+AI & ML Engineer with 2.6 years of experience in Generative AI, Agentic Systems, and RAG pipelines.
 
 I build:
 • Agentic workflows using LangGraph
